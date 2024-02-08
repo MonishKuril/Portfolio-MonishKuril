@@ -1,5 +1,5 @@
 document.getElementById('cv-download-btn').addEventListener('click', function() {
-  alert("clicl OK to download your C.V shortly");
+  alert("click OK to download your C.V ");
 });
 const backToTopBtn = document.getElementById('back-to-top-btn');
 
