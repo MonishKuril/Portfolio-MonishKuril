@@ -150,6 +150,7 @@ li {
     margin-left: 150px;
     color: #ddd;
     animation: fadeIn 8s;
+    animation: fadeOut 4s;
   
 }
   .wallpaper-div h1{
