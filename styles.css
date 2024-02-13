@@ -289,7 +289,15 @@ footer {
 
 @media only screen and (max-width: 600px) {
     #pcontainer {
-        height: auto;
+     border: 5px;
+    border-style:groove;
+    border-color:#cfc1c1;
+  background-color:burlywood;
+    display: flex;
+    justify-content: flex-start;
+    height: 205px;  
+    border-radius: 1px;
+    }
     }
     
     #pcontainer img {
