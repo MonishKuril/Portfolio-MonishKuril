@@ -8,7 +8,7 @@ document.getElementById('connectme-form').addEventListener('submit', function(ev
   // Trigger the download
   var downloadLink = document.createElement('a');
   downloadLink.href = document.getElementById('cv-download-btn').getAttribute('href');
-  downloadLink.download = 'https://github.com/MonishKuril/Portfolio-MonishKuril/blob/main/MK.Resume.pdf';
+  downloadLink.download = 'MK_Resume.pdf';
   downloadLink.click();
 });
 // button go back logic
